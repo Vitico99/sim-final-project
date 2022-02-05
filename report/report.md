@@ -1,6 +1,6 @@
 # Proyecto Simulación-Programación Declarativa 
 Autor: Victor Manuel Cardentey Fundora C411
-## Principales ideas seguidas para las solución del problema:
+## Principales ideas seguidas para la solución del problema:
 El ambiente planteado en el problema es una cuadrícula de $N \times M$ donde cada celda de la cuadrícula puede o no contener distintos elementos presentes en la simulación, los elementos presentes en la simulación son obstáculos, basura, corrales, niños y robots. 
 
 El ambiente puede variar de forma natural todos los turnos o de forma aleatoria cada $t$ turnos. La variación natural del ambiente 
